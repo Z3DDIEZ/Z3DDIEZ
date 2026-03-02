@@ -101,18 +101,19 @@ Interests:           cryptographic design, distributed consensus, zero-trust arc
   </tr>
 </table>
 
-> **All repositories** — [github.com/Z3DDIEZ?tab=repositories](https://github.com/Z3DDIEZ?tab=repositories)
-
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Z3DDIEZ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Z3DDIEZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3DDIEZ&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/Z3DDIEZ?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
   </a>
 </p>
+
+---
+
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z3DDIEZ&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
@@ -122,15 +123,40 @@ Interests:           cryptographic design, distributed consensus, zero-trust arc
 
 ### Architecture and Patterns
 
-```text
-Clean Architecture    |  Domain > Application > Infrastructure > Presentation
-CQRS / MediatR        |  Command-query separation with discrete handlers
-Event-Driven          |  RabbitMQ, Pub/Sub, Transactional Outbox
-DDD                   |  Aggregates, value objects, domain events
-Federated Learning    |  Privacy-preserving distributed ML
-Zero-Trust Crypto     |  Cell-partitioned encryption, HKDF key derivation
-Serverless            |  Edge Functions, Cloud Functions, scale-to-zero
-```
+<table>
+  <tr>
+    <th align="left">Pattern</th>
+    <th align="left">Application</th>
+  </tr>
+  <tr>
+    <td><strong>Clean Architecture</strong></td>
+    <td>Domain > Application > Infrastructure > Presentation</td>
+  </tr>
+  <tr>
+    <td><strong>CQRS / MediatR</strong></td>
+    <td>Command-query separation with discrete handlers</td>
+  </tr>
+  <tr>
+    <td><strong>Event-Driven</strong></td>
+    <td>RabbitMQ, Pub/Sub, Transactional Outbox</td>
+  </tr>
+  <tr>
+    <td><strong>Domain-Driven Design</strong></td>
+    <td>Aggregates, value objects, domain events</td>
+  </tr>
+  <tr>
+    <td><strong>Federated Learning</strong></td>
+    <td>Privacy-preserving distributed ML</td>
+  </tr>
+  <tr>
+    <td><strong>Zero-Trust Cryptography</strong></td>
+    <td>Cell-partitioned encryption, HKDF key derivation</td>
+  </tr>
+  <tr>
+    <td><strong>Serverless</strong></td>
+    <td>Edge Functions, Cloud Functions, scale-to-zero</td>
+  </tr>
+</table>
 
 ---
 
@@ -144,6 +170,23 @@ Serverless            |  Edge Functions, Cloud Functions, scale-to-zero
 | **Security**  | AES-256-GCM, HKDF-SHA256, JWT rotation, RLS, Threat Modelling, OWASP       |
 | **Testing**   | xUnit, JUnit 5 + Mockito, Criterion (Rust), GitHub Actions CI/CD           |
 | **Cloud**     | GCP (Firestore, Pub/Sub, BigQuery), Azure App Services, Supabase, Firebase |
+
+---
+
+### Beyond the Terminal
+
+When I'm not writing systems code, I'm probably somewhere between a gallery wall and a vinyl record.
+
+I shoot film and digital photography — mostly architecture and street — because there's something about
+framing the world through a viewfinder that feels like debugging reality. Art history is a long-running
+fascination; I'll happily spend an afternoon with Caravaggio's use of chiaroscuro or arguing about
+whether Brutalism is beautiful (it is). Classical music keeps me focused during deep work — Bach's
+_Cello Suites_ for refactoring sessions, Debussy's _Clair de Lune_ for late-night architecture decisions,
+and Chopin's _Nocturnes_ when the code finally compiles. I read poetry the way most people scroll feeds:
+slowly, repeatedly, with too much coffee. Rainer Maria Rilke and Mary Oliver are permanent fixtures on
+the desk.
+
+I'm odd, but I'm happy.
 
 ---
 
