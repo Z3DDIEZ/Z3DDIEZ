@@ -84,8 +84,10 @@ Interests:           cryptographic design, distributed consensus, zero-trust arc
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
       </p>
-      <p align="center">Event-driven microservices platform — Transactional Outbox Pattern, JWT auth with single-use refresh rotation, Spring Cloud Gateway with rate limiting. Full Docker Compose orchestration.</p>
+      <p align="center">Event-driven microservices platform — 6 services with strict Clean Architecture layering, Transactional Outbox for guaranteed event delivery, JWT auth with single-use refresh rotation, GraphQL analytics over InfluxDB time-series. Full Kubernetes orchestration via Helm.</p>
     </td>
   </tr>
   <tr>
