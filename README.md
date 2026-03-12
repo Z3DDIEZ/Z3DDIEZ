@@ -16,8 +16,11 @@
 Final-year BSc Computer Science @ University of Johannesburg
 Johannesburg, South Africa
 
-Currently building:  encrypted data pipelines, federated ML systems, event-driven backends
+Building encrypted data pipelines, federated ML systems, and event-driven backend platforms.
 Interests:           cryptographic design, distributed consensus, zero-trust architectures
+
+Seeking backend engineering roles focused on distributed systems,
+secure infrastructure, and large-scale platform architecture.
 ```
 
 ---
@@ -177,18 +180,11 @@ Interests:           cryptographic design, distributed consensus, zero-trust arc
 
 ### Beyond the Terminal
 
-When I'm not writing systems code, I'm probably somewhere between a gallery wall and a vinyl record.
+I spend time with photography, art history,
+and classical music. I enjoy architecture photography,
+chiaroscuro paintings, and long evenings with Bach’s cello suites.
 
-I shoot film and digital photography — mostly architecture and street — because there's something about
-framing the world through a viewfinder that feels like debugging reality. Art history is a long-running
-fascination; I'll happily spend an afternoon with Caravaggio's use of chiaroscuro or arguing about
-whether Brutalism is beautiful (it is). Classical music keeps me focused during deep work — Bach's
-_Cello Suites_ for refactoring sessions, Debussy's _Clair de Lune_ for late-night architecture decisions,
-and Chopin's _Nocturnes_ when the code finally compiles. I read poetry the way most people scroll feeds:
-slowly, repeatedly, with too much coffee. Rainer Maria Rilke and Mary Oliver are permanent fixtures on
-the desk.
-
-I'm odd, but I'm happy.
+Poetry and too much tea are permanent fixtures.
 
 ---
 
