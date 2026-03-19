@@ -18,6 +18,7 @@ Johannesburg, South Africa
 
 Building encrypted data pipelines, federated ML systems, and event-driven backend platforms.
 Interests:           cryptographic design, distributed consensus, zero-trust architectures
+Currently reading:   Designing Data-Intensive Applications (Kleppmann) & Understanding Distributed Systems (Vitillo)
 
 Seeking backend engineering roles focused on distributed systems,
 secure infrastructure, and large-scale platform architecture.
@@ -95,7 +96,7 @@ secure infrastructure, and large-scale platform architecture.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Z3DDIEZ/HoldFast">Holdfast</a></h3>
+      <h3 align="center"><a href="https://github.com/Z3DDIEZ/HoldFast">HoldFast</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -114,6 +115,14 @@ secure infrastructure, and large-scale platform architecture.
     </td>
   </tr>
 </table>
+
+---
+
+### Open Source Contributions
+
+| Project | Contribution |
+| :--- | :--- |
+| **[Cherry-CIC/MVP](https://github.com/Cherry-CIC/MVP/pull/371)** | Ongoing open-source contributions to core project features and infrastructure. |
 
 ---
 
@@ -184,6 +193,7 @@ secure infrastructure, and large-scale platform architecture.
 | **Security**  | AES-256-GCM, HKDF-SHA256, JWT rotation, RLS, Threat Modelling, OWASP       |
 | **Testing**   | xUnit, JUnit 5 + Mockito, Criterion (Rust), GitHub Actions CI/CD           |
 | **Cloud**     | GCP (Firestore, Pub/Sub, BigQuery), Azure App Services, Supabase, Firebase |
+| **Engineering**| ADR-driven design, RFCs, strictly enforced Clean Architecture boundaries   |
 
 ---
 
