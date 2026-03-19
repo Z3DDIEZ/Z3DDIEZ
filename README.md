@@ -101,7 +101,7 @@ secure infrastructure, and large-scale platform architecture.
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
       </p>
-      <p align="center">Multi-tenant SaaS decision intelligence platform. Gemini API integration with 90%+ schema validation, response caching, quota enforcement, and cost-optimised serverless infrastructure (&lt;$15/mo for 1k users).</p>
+      <p align="center">Multi-tenant SaaS decision intelligence platform. Gemini API integration with 90%+ schema validation, response caching, quota enforcement, and cost-optimised serverless infrastructure.</p>
     </td>
   </tr>
 </table>
