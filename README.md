@@ -61,27 +61,6 @@ secure infrastructure, and large-scale platform architecture.
       <p align="center">Zero-trust encryption library with cascading cell-partitioned domains. Three-layer trust stack with HKDF-SHA256 key derivation. <strong>739 MB/s throughput</strong>, ~13us traversal latency. Threat-model-driven test suite across 5 security property modules.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Z3DDIEZ/MedEquity">MedEquity</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Federated_Learning-FF6F00?style=flat-square"/>
-      </p>
-      <p align="center">Federated healthcare triage platform — .NET 9 regional nodes, Python Flower FL coordinator, multi-stakeholder governance with automated agent voting. No-PII policy, sub-7-day data retention. 51 xUnit domain tests.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Z3DDIEZ/Medieval-Chess">Medieval Chess</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      </p>
-      <p align="center">Chess variant with feudal hierarchy and loyalty mechanics. Clean Architecture with strict layer separation, CQRS via MediatR. 3D board client in React Three Fiber with GLTF model loading. 27 xUnit domain tests.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Z3DDIEZ/spring-boot-microservices-demo">Meridian</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -94,7 +73,17 @@ secure infrastructure, and large-scale platform architecture.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Z3DDIEZ/MedEquity">MedEquity</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Federated_Learning-FF6F00?style=flat-square"/>
+      </p>
+      <p align="center">Federated healthcare triage platform — .NET 9 regional nodes, Python Flower FL coordinator, multi-stakeholder governance with automated agent voting. No-PII policy, sub-7-day data retention. 51 xUnit domain tests.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Z3DDIEZ/KRISIS">KRISIS</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -102,6 +91,26 @@ secure infrastructure, and large-scale platform architecture.
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
       </p>
       <p align="center">Multi-tenant SaaS decision intelligence platform. Gemini API integration with 90%+ schema validation, response caching, quota enforcement, and cost-optimised serverless infrastructure.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Z3DDIEZ/HoldFast">Holdfast</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      </p>
+      <p align="center">Simulation engine with a React/Vite client using Canvas 2D and Web Workers for ticking logic. Authoritative .NET 9 backend enforcing Clean Architecture and CQRS via MediatR. Features 80x80 procedural generation and multi-civilization concurrency.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Z3DDIEZ/Medieval-Chess">Medieval Chess</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+      <p align="center">Chess variant with feudal hierarchy and loyalty mechanics. Clean Architecture with strict layer separation, CQRS via MediatR. 3D board client in React Three Fiber with GLTF model loading. 27 xUnit domain tests.</p>
     </td>
   </tr>
 </table>
